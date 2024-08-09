@@ -1,0 +1,15 @@
+#----------------------------- Informações Extras -----------------------------#
+
+Olá! Se você está lendo isso quer dizer que gostou do meu trabalho (assim espero hehe). 
+
+Aqui você vai encontrar algumas dicas para a criação desse currículo em formato de Power Bi, como sites que utilizei para fazer ele e outras dicas que possam ser úteis.
+
+Cartão em HTML: https://codepen.io/jaflo/pen/AzgmQb
+Fontes: 
+1. Early GameBoy
+2. PokemonGb-RAeo
+
+OBS: se não tiver instalado no seu PC essas fontes, o painel apresentará a fonte padrão do arquivo :(
+
+fonte_powerBi é a fonte que utilizei para conseguir colocar 2 fontes como "padrão" no dash (infelizmente o power Bi tem algumas limitações que precisei fazer essa leve gambiarra para conseguir o que precisava)
+

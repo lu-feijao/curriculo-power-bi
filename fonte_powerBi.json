@@ -1,0 +1,49 @@
+{
+	"name": "TableTemplate",
+	"visualStyles": {
+		"tableEx": {
+			"*": {
+				"grid": [{
+					"gridVertical": true,
+					"gridVerticalColor": { "solid": { "color": "#000000"}},
+					"gridVerticalWeight": 2,
+					"gridHorizontal": true,
+					"gridHorizontalColor": { "solid": { "color": "#000000"}},
+					"gridHorizontalWeight": 2,
+					"rowPadding": 2,
+					"outlineColor": { "solid": { "color": "#000000"}},
+					"outlineWeight": 2,
+					"textSize": 14,
+					"imageHeight": 100
+				}],
+				"columnHeaders": [{
+					"outline": "Frame",
+					"autoSizeColumnWidth": true,
+					"fontFamily": "Early GameBoy",
+					"fontSize": 12,
+					"alignment": "Left",
+					"wordWrap": true
+				}],
+				"values": [{
+					"fontColorPrimary": { "solid": { "color": "#000000"}},
+					"fontColorSecondary": { "solid": { "color": "#000000"}},
+					"outline": "Frame",
+					"urlIcon": true,
+					"wordWrap": true,
+					"fontFamily": "Early GameBoy",
+					"fontSize": 12
+				}],
+				"total": [{
+					"totals": true,
+					"fontColor": { "solid": { "color": "#000000"}},
+					"outline": "Frame",
+					"fontFamily": "Early GameBoy",
+					"fontSize": 14
+				}],
+				"stylePreset": [{ 
+					"name": "BoldHeader"
+				}]
+			}
+		}
+	}
+}
